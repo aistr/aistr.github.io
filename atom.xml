@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aistr.github.io/</id>
     <title>Seven</title>
-    <updated>2019-06-15T14:53:49.256Z</updated>
+    <updated>2019-06-27T13:19:33.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aistr.github.io/"/>
     <link rel="self" href="https://aistr.github.io//atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://aistr.github.io//images/avatar.png</logo>
     <icon>https://aistr.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Seven</rights>
+    <entry>
+        <title type="html"><![CDATA[责任]]></title>
+        <id>https://aistr.github.io//post/ze-ren</id>
+        <link href="https://aistr.github.io//post/ze-ren">
+        </link>
+        <updated>2019-06-27T14:01:22.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="人意">人意</h2>
+<ul>
+<li>
+<blockquote>
+<p>都说人世间最难承受的是人意，心意，情意，故意。。。
+一个人的确可以肆意妄为，无拘无束。
+一群人固然可以欢声笑语，觥筹交错。
+但既然有一群与一个之分，就表明了存在即是道理。
+一个人的责任，如独善其身，如舍我其谁；
+一群人的责任，如兼济天下，如还看今朝。
+总之，一个人是一个人，有可能变成一群人，
+一群人是一群人，也有可能变成一个人。
+人意之无常，不可揣测。
+古之善攻者，以己意率众意，所向披靡。
+虑不足，散而无形。
+能压弯人腰的，也许是自己的执念，也许是人意，也许是责任。
+生而不轻松，固然生活之累，亦为己之悲矣。
+然生活和学习一样，逆水行舟。
+轻松的可能非舟，但终究是要受累。
+习而惯之，岁月，终究是丈量成长的时光。</p>
+</blockquote>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[选择]]></title>
         <id>https://aistr.github.io//post/xuan-ze</id>
